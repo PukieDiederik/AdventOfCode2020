@@ -1,0 +1,11 @@
+{
+  "name": "adventofcode2020",
+  "version": "1.0.0",
+  "description": "*** Advent of Code 2020\r * about\r most of these puzzles I make with javascript (NodeJS). this is because I find it way easier to make small projects with javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
